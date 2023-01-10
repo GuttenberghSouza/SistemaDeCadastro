@@ -1,0 +1,1 @@
+﻿select * from db_SistemaDeCadastro
